@@ -1,0 +1,21 @@
+.title {
+    max-height: 100px
+}
+
+.screenshot{
+    max-width: 460px;
+    margin-right: 30px
+}
+.description{
+    max-width: 705px
+}
+
+.app{
+    display: flex;
+}
+
+.title {
+    background-color: #33BEBE;
+    color: white;
+    font-style: uppercase;
+}
